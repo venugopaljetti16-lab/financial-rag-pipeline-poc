@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "CR-001",
+    "content": "Standard & Poor's has affirmed its 'AA-' long-term issuer credit rating on Acme Energy Corp. The outlook remains stable, reflecting the company's robust liquidity position, diversified revenue streams across power generation and natural gas distribution, and disciplined capital allocation. Key credit strengths include a debt-to-EBITDA ratio of 2.3x, strong interest coverage of 8.1x, and consistent free cash flow generation exceeding $2.5 billion annually. Risk factors include regulatory uncertainty in European markets and exposure to commodity price volatility in the near term.",
+    "doc_type": "credit_rating",
+    "entity": "Acme Energy Corp",
+    "date": "2026-01-15",
+    "metadata": {"rating": "AA-", "outlook": "Stable", "sector": "Energy"}
+  },
+  {
+    "doc_id": "CR-002",
+    "content": "Moody's has downgraded Global Trade Finance Ltd from Baa1 to Baa2, with a negative outlook. The downgrade reflects deteriorating asset quality in the trade finance portfolio, rising non-performing loan ratios from 2.1% to 3.8% over the past year, and increased exposure to emerging market counterparties facing currency depreciation. The firm's capital adequacy ratio of 12.4% remains above regulatory minimums but provides limited buffer against further credit losses. Management has announced a strategic review of its risk appetite framework.",
+    "doc_type": "credit_rating",
+    "entity": "Global Trade Finance Ltd",
+    "date": "2026-02-01",
+    "metadata": {"rating": "Baa2", "outlook": "Negative", "sector": "Financial Services"}
+  },
+  {
+    "doc_id": "AN-001",
+    "content": "Analyst Note: Acme Energy Corp Q4 2025 earnings exceeded consensus estimates by 12%, driven by higher-than-expected power generation margins in North America and successful cost reduction programmes. Revenue grew 8.4% year-over-year to $18.7 billion. The company's renewable energy segment now accounts for 34% of total capacity, up from 28% a year ago. Management guidance for 2026 projects EBITDA growth of 5-7% and capex of $4.2 billion focused on wind and solar expansion. We maintain our Buy recommendation with a 12-month price target of $142.",
+    "doc_type": "analyst_note",
+    "entity": "Acme Energy Corp",
+    "date": "2026-02-10",
+    "metadata": {"recommendation": "Buy", "price_target": 142, "sector": "Energy"}
+  },
+  {
+    "doc_id": "AN-002",
+    "content": "Analyst Note: Global Trade Finance Ltd faces headwinds from tightening credit conditions and reduced trade volumes in Asia-Pacific. Q3 results showed a 15% decline in net interest income and provisions for credit losses increased by 40% quarter-over-quarter. The firm's cost-to-income ratio has risen to 68%, above the peer average of 55%. However, the strategic pivot toward supply chain finance and structured trade products shows early promise, with this segment growing 22% year-over-year. We rate Hold with a price target of £34.",
+    "doc_type": "analyst_note",
+    "entity": "Global Trade Finance Ltd",
+    "date": "2026-01-20",
+    "metadata": {"recommendation": "Hold", "price_target": 34, "sector": "Financial Services"}
+  },
+  {
+    "doc_id": "FS-001",
+    "content": "Acme Energy Corp Financial Statement Summary FY2025: Total Revenue: $72.3B (+7.2% YoY). EBITDA: $15.8B (margin 21.9%). Net Income: $8.4B. Total Assets: $142.7B. Total Debt: $36.2B. Debt/EBITDA: 2.3x. Interest Coverage: 8.1x. Free Cash Flow: $6.7B. Capital Expenditure: $9.1B. Dividends Paid: $3.8B. Cash & Equivalents: $11.2B. Operating regions: North America (52%), Europe (28%), Asia-Pacific (12%), Other (8%). Segment breakdown: Power Generation (41%), Natural Gas Distribution (25%), Renewable Energy (21%), Trading & Optimization (13%).",
+    "doc_type": "financial_statement",
+    "entity": "Acme Energy Corp",
+    "date": "2026-01-30",
+    "metadata": {"period": "FY2025", "sector": "Energy"}
+  },
+  {
+    "doc_id": "RR-001",
+    "content": "Research Report: UK Energy Sector Outlook 2026. The UK energy market is undergoing rapid transformation driven by decarbonisation targets, rising wholesale electricity prices, and accelerated renewable deployment. Key themes include: (1) Offshore wind capacity expected to reach 40GW by 2030, creating demand for specialised data analytics and trading systems; (2) Smart grid investments requiring advanced AI/ML capabilities for demand forecasting and grid balancing; (3) Carbon trading markets becoming increasingly sophisticated, with algorithmic trading growing 35% year-over-year. Companies with strong data infrastructure and AI capabilities are best positioned to capitalise on these structural shifts.",
+    "doc_type": "research_report",
+    "entity": "UK Energy Sector",
+    "date": "2026-02-15",
+    "metadata": {"sector": "Energy", "region": "UK"}
+  },
+  {
+    "doc_id": "CR-003",
+    "content": "Fitch Ratings has assigned a first-time 'BBB+' rating to NorthStar Commodities Trading PLC with a stable outlook. The rating reflects the firm's established market position in European power and gas trading, robust risk management framework with VaR limits consistently maintained below 1% of equity, and experienced management team. The firm processes over 50,000 trades daily across power, natural gas, LNG, and carbon credits. Technology infrastructure includes proprietary real-time risk analytics built on Azure cloud services. Annual revenue reached £2.1 billion in FY2025 with net margins of 4.2%.",
+    "doc_type": "credit_rating",
+    "entity": "NorthStar Commodities Trading PLC",
+    "date": "2026-02-20",
+    "metadata": {"rating": "BBB+", "outlook": "Stable", "sector": "Commodities Trading"}
+  }
+]
